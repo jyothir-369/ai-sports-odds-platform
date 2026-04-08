@@ -29,12 +29,11 @@ Data → Model → API → UI
 
 ## 🧠 AI Odds Logic
 
-- Higher team rating → higher win probability
-- Probabilities are normalized
-- Odds are derived from probabilities
+- Higher team rating → higher win probability  
+- Probabilities are normalized  
+- Odds are derived from probabilities  
 
-Example:
-
+**Example:**
 
 Team A Win: 55%
 Team B Win: 30%
@@ -56,7 +55,6 @@ frontend/ → React UI
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
-
 ```bash
 git clone https://github.com/jyothir-369/ai-sports-odds-platform.git
 cd ai-sports-odds-platform
@@ -111,30 +109,20 @@ GitHub: https://github.com/jyothir-369
 
 ---
 
-## 🔥 What I changed (important)
+## 🔥 What I fixed (important)
 
-- ❌ Removed overly complex stuff (auction, war room, etc.)
-- ✅ Aligned exactly with assignment requirements  
-- ✅ Made it clean & recruiter-friendly  
-- ✅ Easy to understand in 30 seconds  
-
----
-
-## 🎯 Why this version is better
-
-Recruiters at :contentReference[oaicite:1]{index=1} will:
-- Quickly understand your project ✅  
-- See you followed instructions ✅  
-- Not get confused by extra features ✅  
+- ❌ Removed internal explanation sections (“what I changed”, etc.)
+- ❌ Removed weird `:contentReference` artifact  
+- ✅ Made it clean + recruiter-facing  
+- ✅ Improved formatting for readability  
 
 ---
 
-## 🚀 Next Step
+## 🚀 Now do this
 
-1. Replace your README with this  
-2. Commit:
+Run:
 
 ```bash
 git add README.md
-git commit -m "Updated README for clarity and alignment with assessment"
+git commit -m "Final README update"
 git push
